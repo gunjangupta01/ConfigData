@@ -1,5 +1,6 @@
+# .YML file
 ---
 lucky-word:
-  -Irish
-  -Rabbit's Foot
-  -Serendipity
+  - Irish
+  - Rabbit's Foot
+  - Serendipity
