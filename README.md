@@ -1,2 +1,2 @@
-# ConfigData
+# PartyService
 ![Sequence Diagram](partyplantUML.png)
